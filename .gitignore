@@ -1,0 +1,95 @@
+﻿# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+test-results/
+out/
+
+# VS Code directories and files
+.vscode/
+
+# Rider/JetBrains specific files
+.idea/
+*.iml
+*.sln.iml
+
+# User-specific files
+*.user
+*.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio working files
+.vs/
+*.ncrunch*
+*.dotCover
+.reSharper
+*.trace
+*.coverage
+*.coveragexml
+*.shed
+*.vsix
+
+# Prevent NuGet from being added to source control
+*.nupkg
+*.snupkg
+.nuget/
+
+# Prevent the Assemblies folder of packages to be added to source control
+_Resharper.*
+packages/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# ASP.NET Files
+# Ignore publish outputs
+publish/
+*.Publish.xml
+appsettings.*.json
+
+# Azure Cloud specific
+local.settings.json
+
+# .NET Core Specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resx-generated files (localization)
+*.resources.dll
+
+# Database related files
+*.mdf
+*.ldf
+*.sql
+
+# IDE-specific files
+.idea/
+*.csproj.user
+*.vbproj.user
+*.suo
+*.sln.docstates
+.vscode/
+design-time/
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+*.appx
+*.appxupload
+
+# Test specific files
+TestResults/
